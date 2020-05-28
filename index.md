@@ -5,7 +5,7 @@ published: true
 
 ## Crash Course Python for Data Science
 
-### [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
+### GIC PM-617 Module: Practical Training for Science and Engineering Research
 <br><br>
 #### Course Instructor: [Graciela Carrillo](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
 #### Module Coordinator: [Dr. Molly Huq](mailto:graciela.carrillo@kaplan.com?subject=[Intro_Python]%20Source%20Han%20Sans)
